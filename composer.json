@@ -1,6 +1,7 @@
 {
     "name": "akweidler/elastic-migrations",
     "description": "Elasticsearch migrations for Laravel",
+    "version": "3.3.0",
     "keywords": [
         "laravel",
         "migrations",
